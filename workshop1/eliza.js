@@ -128,11 +128,23 @@ var rules = {
   ],
   
   "~*x vioelence ~*y": [
-    "Peopel can turn off not just because a steady diet of images of vilonece has made them indifferent but because they are afraid."
+    "People can turn off not just because a steady diet of images of vilonece has made them indifferent but because they are afraid."
   ],
   
    "~*x anger ~*y": [
-    "Peopel can turn off not just because a steady diet of images of vilonece has made them indifferent but because they are afraid."
+    "People can turn off not just because a steady diet of images of vilonece has made them indifferent but because they are afraid."
+  ],
+  
+  "~*x kill ~*y": [
+    "People can turn off not just because a steady diet of images of vilonece has made them indifferent but because they are afraid."
+  ],
+  
+  "~*x murder ~*y": [
+    "People can turn off not just because a steady diet of images of vilonece has made them indifferent but because they are afraid."
+  ],
+  
+  "~*x commit ~*y": [
+    "People can turn off not just because a steady diet of images of vilonece has made them indifferent but because they are afraid."
   ],
   "~*x end ~*y": [
     "the means to achieve the end would already be the end; and this 'end,' conversely, cannot be considered a means in some other respect, because there is nothing higher to attain than this actuality itself."
