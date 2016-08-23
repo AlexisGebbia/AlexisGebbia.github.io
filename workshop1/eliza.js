@@ -44,6 +44,10 @@ var rules = {
   "~*x if ~*y": [
     "the seas the rains was uncommon was the declaration",
   ],
+  
+   "~*x in ~*y": [
+    "the seas the rains was uncommon was the declaration",
+  ],
   "~*x I dreamt ~*y": [
     "The wilderness as metaphor is in the is case not evocative enough because causing a complete failure in the magnet, the compass, the scale, the stars and the movement of the rivers is more than getting lost in the woods.",
   ],
@@ -62,6 +66,11 @@ var rules = {
   "~*x feel ~*y": [
     "Then I reflected that all things happen, happen to one, precisely now.",
   ],
+  
+   "~*x supposes ~*y": [
+    "Then I reflected that all things happen, happen to one, precisely now.",
+    ],
+    
   "~*x sad ~*y": [
     "After all, the point of art is to show people that life is worth living by showing that it isn't",
   ],
@@ -101,6 +110,10 @@ var rules = {
    "~*x make ~*y": [
     "Babies making grammarless babies",
   ],
+  "~*x of ~*y": [
+    "Babies making grammarless babies",
+  ],
+  
   "~*x smile ~*y": [
     "(you caught me) smilin' ",
   ],
@@ -120,6 +133,10 @@ var rules = {
     "To acknowledge the existence of the incorrigible",
   ],
    "~*x existence ~*y": [
+    "To acknowledge the existence of the incorrigible",
+  ],
+  
+  "~*x terms ~*y": [
     "To acknowledge the existence of the incorrigible",
   ],
   
