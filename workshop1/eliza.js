@@ -39,13 +39,13 @@ var rules = {
     "cause was the was was the need was the case was the perils was the",
   ],
     "~*x I need ~*y": [
-    "want was the particular circumstanec was the seas was the costs",
+    "want was the particular circumstance was the seas was the costs",
   ],
   "~*x if ~*y": [
     "the seas the rains was uncommon was the declaration",
   ],
   "~*x I dreamt ~*y": [
-    "The wilderness as metaphor is in theis case not evocative enough because causing a complete failure in the magnet, the compass, the scale, the stars and the movement of the rivers is more than getting lost in the woods.",
+    "The wilderness as metaphor is in the is case not evocative enough because causing a complete failure in the magnet, the compass, the scale, the stars and the movement of the rivers is more than getting lost in the woods.",
   ],
   "~*x I dream about ~*y": [
     "The sentence which insist on tenses and words like later and before",
@@ -53,16 +53,16 @@ var rules = {
   "~*x dream ~*y": [
     "I have been here before, I will return",
   ],
-  "~*x my mother ~*y": [
-    "No one in the world seems to know exactly what it describes, not even we motley millions who call ourselves Americans.",
+  "~*x what ~*y": [
+    "No one in the world seems to know exactly what it describes, not even we motley millions.",
   ],
-  "~*x my father ~*y": [
+  "~*x happen ~*y": [
     "It seemed incredible that this day, a day without warnings or omens, might be that of my implacable death.",
   ],
-  "~*x I am glad ~*y": [
+  "~*x feel ~*y": [
     "Then I reflected that all things happen, happen to one, precisely now.",
   ],
-  "~*x I am sad ~*y": [
+  "~*x sad ~*y": [
     "After all, the point of art is to show people that life is worth living by showing that it isn't",
   ],
   "~*x are like ~*y": [
@@ -74,49 +74,67 @@ var rules = {
   "~*x alike ~*y": [
     "could or justify authorize",
   ],
-  "~*x same ~*y": [
+  "~*x compassion ~*y": [
     "Compassion is an unstable emotion. It needs to be translated into action, or it withers.",
   ],
   "~*x no ~*y": [
     "I'm full of outer space",
   ],
-  "~*x I was ~*y": [
-    "I'm free as fred all night.",
+  "~*x free ~*y": [
+    "I'm free as dred all night.",
   ],
-  "~*x was I ~*y": [
+  "~*x are ~*y": [
     "Some disasters are more apt subjects of irony than others?",
   ],
-  "~*x I am ~*y": [
+  "~*x smypathy ~*y": [
     "Our sympathy proclaims our innocence as well as our impotence",
   ],
-  "~*x am I ~*y": [
+  "~*x just ~*y": [
     "A lot of it is just trying to figure out how to say something",
   ],
-  "~*x am ~*y": [
+  "~*x emotion ~*y": [
     "The states described as apathy, moral or emotional anesthesis, are full of feelings; the feelings are rage and frustration",
   ],
   "~x are ~*y": [
-    "I dont wanna represent anything and I don't want to repair anything.",
+    "I don't wanna represent anything and I don't want to repair anything.",
   ],
-   "~*x are you ~*y": [
+   "~*x make ~*y": [
     "Babies making grammarless babies",
   ],
-  "~*x you are ~*y": [
+  "~*x smile ~*y": [
     "(you caught me) smilin' ",
   ],
-  "~*x because ~*y": [
+  "~*x die ~*y": [
     "Heaven. It never goes astray.",
   ],
-  "~*x were you ~*y": [
+  
+   "~*x died ~*y": [
+    "Heaven. It never goes astray.",
+  ],
+  
+  "~*x death ~*y": [
+    "Heaven. It never goes astray.",
+  ],
+  
+  "~*x exist ~*y": [
     "To acknowledge the existence of the incorrigible",
   ],
-  "~*x I can't ~*y": [
+   "~*x existence ~*y": [
+    "To acknowledge the existence of the incorrigible",
+  ],
+  
+  "~*x she ~*y": [
     "She was the site of the struggle itself.",
   ],
-  "~*x I feel ~*y": [
+  
+  "~*x vioelence ~*y": [
     "Peopel can turn off not just because a steady diet of images of vilonece has made them indifferent but because they are afraid."
   ],
-  "~*x I felt ~*y": [
+  
+   "~*x anger ~*y": [
+    "Peopel can turn off not just because a steady diet of images of vilonece has made them indifferent but because they are afraid."
+  ],
+  "~*x end ~*y": [
     "the means to achieve the end would already be the end; and this 'end,' conversely, cannot be considered a means in some other respect, because there is nothing higher to attain than this actuality itself."
   ],
 };
